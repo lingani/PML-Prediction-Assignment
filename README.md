@@ -30,3 +30,4 @@ Due to security concerns with the exchange of R code, your code will not be run 
 
 Results 
 ----------------------
+See Analysis markdown file in [Prediction Analysis.Rmd](https://github.com/lingani/PML-Prediction-Assignment/blob/master/Prediction%20Analysis.Rmd), and Analysis markdown html file [Prediction_Analysis.html](https://github.com/lingani/PML-Prediction-Assignment/blob/master/Prediction%20Analysis.html)
